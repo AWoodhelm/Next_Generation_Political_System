@@ -1,5 +1,5 @@
 # Next_Generation_Political_System
-This is an collaborative open source attempt to equip humans with an advanced way to shape the world in a way they would like to see it. In an open, peaceful, democratic way. Hence we believe this provides an evolution to current political systems
+This is an collaborative open source attempt to equip humans with an advanced way to shape the world in a way they would like to see it. In an open, peaceful, democratic way. Hence we believe this provides an evolution to current political systems.
 
 WHY does humanity need this?
 Currenlty we see power hungry people in positions of political power. We believe that this is the wrong personality type of govern the planet. Current systems seem also rather inadequate to allow every human to have a say. 
